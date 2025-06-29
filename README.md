@@ -8,7 +8,7 @@ This project models elastic collisions and wall bounces with interactive visuali
 
 ## 🎥 Demo
 
-![particle-sim-demo](https://via.placeholder.com/800x400?text=Add+Your+Simulation+GIF+Here)
+https://www.linkedin.com/posts/sairaj-sawant-249127154_python-simulation-physics-activity-7345162947414917120-tOm6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUJnpkBUDGj8g_xVizRS-avPMVcFLzidXE
 
 ---
 
@@ -34,8 +34,8 @@ This project models elastic collisions and wall bounces with interactive visuali
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/particle-collision-sim.git
-cd particle-collision-sim
+git clone https://github.com/sairaj97/particle_sim
+cd particle_sim
 
 # 2. Create a virtual environment
 python3 -m venv venv
@@ -53,7 +53,7 @@ python main.py
 ## 📁 File Structure
 
 ```
-particle-collision-sim/
+particle_sim/
 │
 ├── particle.py        # Defines the Particle class and physics logic
 ├── main.py            # Pygame setup, rendering, and simulation loop
